@@ -1,0 +1,16 @@
+SMAP
+rentDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 rentDetails.jsp
+adm/rentDetails.jsp
+*L
+5,50:45
+55,19:96
+73,2:115
+75,2:117,3
+77,3:123
+79,11:126
+89,25:137
+*E
